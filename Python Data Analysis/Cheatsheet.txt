@@ -1,0 +1,10 @@
+shift + tab: Show Docstring (documentation of the function)
+D + D: delete the current cell
+M: change the current cell to Markdown
+Y: change it to code
+A: insert a new cell above
+B: insert a new cell below
+
+
+More referrences:
+https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
